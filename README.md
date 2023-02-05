@@ -1,2 +1,2 @@
 # variant
-Implementation of std::variant conforming to c++20 without std::hash
+Implementation of [std::variant](https://en.cppreference.com/w/cpp/utility/variant) conforming to c++20 without std::hash
